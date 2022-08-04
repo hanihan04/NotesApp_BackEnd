@@ -8,6 +8,6 @@ List in this project:
 
 Thanks to Dicoding.com
 
-Source : Dicoding.com </tab> `in March-May 2022`
+Source : Dicoding.com `in March-May 2022`
 
 #JavaScript #NodeJS #Postman_API_Testing #JSON #PostgreSQL #eslint #nodemon #hapi #joi #RabbitMQ
